@@ -1,0 +1,27 @@
+[
+  {
+    "organization": "OASIS INFOBYTE",
+    "role": "Python Programming | Intern",
+    "duration": "June 2023 - July 2024",
+    "description": "The Python Programming Internship at Oasis Infobyte is a 4-week program focused on developing Python skills. Interns work on real-world projects related to web development and deploying Python-driven applications. Upon completion, participants earn certification, enhancing their career prospects in Python programming."},
+  
+  
+  {
+    "organization": "Codsoft",
+    "role": "C++ Developer | Virtual Internship",
+    "duration": "May 2023 - June 2023",
+    "description": "Created dynamic projects like Tic Tac Toe and a BMI calculator using C++, focusing on logic and efficiency."
+  },
+  {
+    "organization": "Bharath Intern",
+    "role": "Web Developer | Internship",
+    "duration": "Jan 2023 - March 2023",
+    "description": "Worked on responsive web design and REST API integrations for weather-based applications."
+  },
+  {
+    "organization": "Oasis Infobyte",
+    "role": "Python Programming Intern",
+    "duration": "July 2023 - Aug 2023",
+    "description": "Worked on Python-based projects, including automation scripts, data processing, and back-end development."
+  }
+]

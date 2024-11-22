@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/amma630/Myportfolio",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}

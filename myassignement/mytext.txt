@@ -1,0 +1,33 @@
+/myassignement
+  /src
+    /components
+      About.js
+      Contact.js
+      Experience.js
+      Header.js
+      HeroSection.js
+      Skills.js
+    /experience
+      index.js             // JavaScript file specific to the Experience component
+      script.js            // Additional JavaScript functionality for Experience
+      style.css            // CSS specific to the Experience component
+    /projects
+      projects.json        // JSON file containing project data
+      style.css            // CSS file specific to projects section
+      scripts.js           // JS file for additional project-related functionality
+    /css
+      404.css              // Global CSS file for 404 page
+      style.css            // Global styles for the app
+    /images
+      (your image files like logo.png, background.jpg, etc.)
+    /js
+      app.js               // Main JavaScript for app-level functionality
+      particles_main.js    // JS for particles effect on HeroSection
+      scripts.js           // Additional global JS functionality
+    App.js                 // Main React app file
+    index.js               // Entry point for React app (render App)
+    index.css              // Global CSS for the app
+  package.json
+  public
+    index.html             // Main HTML file for the app
+    (other static assets like favicon.ico)
