@@ -89,7 +89,7 @@ const HeroSection = () => {
         <img
           draggable="false"
           className="tilt"
-          src="./assets/images/hero1.png"
+          src="/assets/images/hero1.png"
           alt="Hero"
         />
       </div>

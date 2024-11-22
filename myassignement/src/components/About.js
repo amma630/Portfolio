@@ -37,7 +37,7 @@ const About = () => {
           </div>
           <div className="resumebtn">
             <a
-              href="https://drive.google.com/file/d/1rZiXl562q7aVyk1kJ2nO85YBAq8ixTiw/view"
+              href="../assets/images/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn"

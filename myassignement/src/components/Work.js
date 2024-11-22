@@ -9,7 +9,7 @@ const Work = () => {
 
       <div className="box-container">
         <div className="box tilt">
-          <img draggable="false" src="/assets/images/voiceassistant.jpeg" alt="" />
+          <img draggable="false" src="/assets/images/voice.jpg" alt="" />
           <div className="content">
             <div className="tag">
               <h3>Voice Assistant</h3>
