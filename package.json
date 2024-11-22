@@ -1,9 +1,11 @@
 {
-  "homepage": "https://github.com/amma630/Myportfolio",
+  "homepage": "https://username.github.io/myassignement",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
